@@ -1,7 +1,7 @@
 
 
 # Github    : https://www.github.com/halocrak
-# Instagram : https://instagr.am/tahmid.rayat
+# Instagram : https://instagr.am/hech
 # --------------------------------------------
 # Time      : Sat Aug 28 23:45:18 2021
 # Platform  : Linux aarch64
